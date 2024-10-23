@@ -1,6 +1,6 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-## NAME:paida ram sai
-# REG NO:212223110034
+## Name:paida ram sai
+## Register No : 212223110034
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
@@ -12,7 +12,7 @@
 6.	The steps are repeated till ‘$’ is reached.
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
-# PROGRAM:
+# PROGRAM
 ```
 #include<stdio.h>
 #include<ctype.h>
@@ -64,8 +64,9 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT:
-![Screenshot 2024-10-08 141636](https://github.com/user-attachments/assets/ce1017fb-c74c-4581-9bc0-fad8bb69c7c9)
+# OUTPUT
+![image](https://github.com/user-attachments/assets/1687cd64-b48b-42e9-a342-0c860ea57615)
+
 
 # RESULT
-### The program to implement a symbol table is executed and the output is verified.
+ The program to implement a symbol table is executed and the output is verified.
